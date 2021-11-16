@@ -1,1 +1,1 @@
-# Greyblocks: A leftwm configured theme
+# NeoGeniX: A leftwm configured theme
